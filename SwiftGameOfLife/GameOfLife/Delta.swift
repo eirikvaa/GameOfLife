@@ -6,5 +6,6 @@
 //
 
 struct Delta {
-    let dx, dy: Int
+    let dx: Int
+    let dy: Int
 }

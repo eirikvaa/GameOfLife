@@ -6,11 +6,6 @@
 //
 
 final class Cell {
-    enum State {
-        case dead
-        case alive
-    }
-
     var coordinate: Coordinate
     var representation: String = "_"
     var nextState: State?
@@ -44,5 +39,12 @@ final class Cell {
         default:
             break
         }
+    }
+}
+
+extension Cell {
+    enum State {
+        case dead
+        case alive
     }
 }

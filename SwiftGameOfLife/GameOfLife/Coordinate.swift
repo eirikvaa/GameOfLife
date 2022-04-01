@@ -6,7 +6,8 @@
 //
 
 struct Coordinate {
-    let x, y: Int
+    let x: Int
+    let y: Int
 
     static func + (lhs: Coordinate, delta: Delta) -> Coordinate {
         Coordinate(x: lhs.x + delta.dx, y: lhs.y + delta.dy)
