@@ -5,4 +5,5 @@ This is my playground for learning new programming languages by implementing a s
 Implementations:
 
 - [Swift](SwiftGameOfLife/)
-- [Python](PythonGameOfLife)
+- [Python](PythonGameOfLife/)
+- [JavaScript](JavaScriptGameOfLife/)
