@@ -10,7 +10,7 @@ Implementations:
 - [x] [Python](PythonGameOfLife/)
 - [x] [JavaScript](JavaScriptGameOfLife/)
 - [x] [Kotlin](KotlinGameOfLife/)
-- [ ] C
+- [x] [C](CGameOfLife/)
 - [ ] C++
 - [ ] Rust
 - [ ] Ruby
