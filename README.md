@@ -11,7 +11,7 @@ Implementations:
 - [x] [Swift](Swift/)
 - [x] [Python](Python/)
 - [x] [JavaScript](JavaScript/)
-- [x] [Kotlin](KotlinGameOfLife/)
+- [x] [Kotlin](Kotlin/)
 - [x] [C](C/)
 - [x] [Ruby](Ruby/)
 - [ ] Rust
