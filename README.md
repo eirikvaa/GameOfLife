@@ -6,7 +6,11 @@ The list starts off with the programming languages I'm already familiar with, bu
 
 Implementations:
 
-- [Swift](SwiftGameOfLife/)
-- [Python](PythonGameOfLife/)
-- [JavaScript](JavaScriptGameOfLife/)
-- [Kotlin](KotlinGameOfLife/)
+- [x] [Swift](SwiftGameOfLife/)
+- [x] [Python](PythonGameOfLife/)
+- [x] [JavaScript](JavaScriptGameOfLife/)
+- [x] [Kotlin](KotlinGameOfLife/)
+- [ ] C
+- [ ] C++
+- [ ] Rust
+- [ ] Ruby
