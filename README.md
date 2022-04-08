@@ -9,7 +9,7 @@ Note: I have a specific pattern I'm testing to see if what I have implemented ac
 Implementations:
 
 - [x] [Swift](SwiftGameOfLife/)
-- [x] [Python](PythonGameOfLife/)
+- [x] [Python](Python/)
 - [x] [JavaScript](JavaScript/)
 - [x] [Kotlin](KotlinGameOfLife/)
 - [x] [C](C/)
