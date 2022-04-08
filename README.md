@@ -13,6 +13,6 @@ Implementations:
 - [x] [JavaScript](JavaScript/)
 - [x] [Kotlin](KotlinGameOfLife/)
 - [x] [C](C/)
-- [x] [Ruby](RubyGameOfLife/)
+- [x] [Ruby](Ruby/)
 - [ ] Rust
 - [ ] C++
