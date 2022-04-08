@@ -10,7 +10,7 @@ Implementations:
 
 - [x] [Swift](SwiftGameOfLife/)
 - [x] [Python](PythonGameOfLife/)
-- [x] [JavaScript](JavaScriptGameOfLife/)
+- [x] [JavaScript](JavaScript/)
 - [x] [Kotlin](KotlinGameOfLife/)
 - [x] [C](C/)
 - [x] [Ruby](RubyGameOfLife/)
