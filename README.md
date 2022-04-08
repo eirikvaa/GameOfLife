@@ -16,3 +16,17 @@ Implementations:
 - [x] [Ruby](Ruby/)
 - [ ] Rust
 - [ ] C++
+- [ ] Go
+- [ ] Elm
+- [ ] C#
+- [ ] Dart
+- [ ] Haskell
+- [ ] Java
+- [ ] Objective-C
+- [ ] Zig
+- [ ] SmallBasic
+- [ ] Smalltalk
+- [ ] Assembly
+- [ ] TypeScript
+- [ ] PHP
+- [ ] Prolog
