@@ -4,6 +4,8 @@ This is my playground for playing around with programming languages by implement
 
 The list starts off with the programming languages I'm already familiar with, but I'm planning on venturing into more uncharted territory later.
 
+Note: I have a specific pattern I'm testing to see if what I have implemented actually works, but the implementations aren't thoroughly tested, so don't expect perfect implementations.
+
 Implementations:
 
 - [x] [Swift](SwiftGameOfLife/)
