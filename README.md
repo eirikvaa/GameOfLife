@@ -11,6 +11,6 @@ Implementations:
 - [x] [JavaScript](JavaScriptGameOfLife/)
 - [x] [Kotlin](KotlinGameOfLife/)
 - [x] [C](CGameOfLife/)
-- [ ] C++
-- [ ] Rust
 - [ ] Ruby
+- [ ] Rust
+- [ ] C++
