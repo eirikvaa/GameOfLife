@@ -14,6 +14,7 @@ Implementations:
 - [x] [Kotlin](Kotlin/)
 - [x] [C](C/)
 - [x] [Ruby](Ruby/)
+- [x] [V](V/)
 - [ ] Rust
 - [ ] C++
 - [ ] Go
